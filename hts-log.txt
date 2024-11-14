@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 21 Sep 2024 14:56:28 at https://html.designingmedia.com/artelligence/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.designingmedia.com/artelligence/?storefront=envato-elements -O1 "F:\Level 5\New folder\Net.Ai" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:56:30	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.designingmedia.com/robots.txt (from primary/primary)
+14:57:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.designingmedia.com/ms-icon-144x144.png (from https://html.designingmedia.com/artelligence/?storefront=envato-elements)
+14:57:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.designingmedia.com/ms-icon-144x144.png (from https://html.designingmedia.com/artelligence/?storefront=envato-elements)
+14:57:18	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.designingmedia.com/ms-icon-144x144.png (from https://html.designingmedia.com/artelligence/?storefront=envato-elements)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 100 links scanned, 96 files written (7544729 bytes overall) [7466088 bytes received at 149321 bytes/sec], 133786 bytes transferred using HTTP compression in 3 files, ratio 19%, 11.1 requests per connection
+(2 errors, 2 warnings, 0 messages)
